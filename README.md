@@ -4,7 +4,7 @@ This repository contains the code for the tutorial on [Atomistic Adversarial Att
 The notebooks are available in Google Colab in the following links:
 
 - Atomistic Adversarial Attacks: <https://bit.ly/UChicago-AtomAttacks>
-- QUESTS: <https://bit.ly/UChicago-QUESTS>
+- QUESTS: <https://bit.ly/UChicago-Entropy>
 
 The tutorials have some precomputed information in folder named [results](results) and datasets in the folders [gap20](gap20) and [rmd17](rmd17).
 Only part of the datasets are available in this repository for brevity.
