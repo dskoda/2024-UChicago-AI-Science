@@ -1,5 +1,9 @@
 # Tutorials for the UChicago AI + Science Summer School 2024
 
+## Slides
+
+The slides are available on Google Drive [under this link](https://drive.google.com/file/d/1lEiy7yJmaxS9plI6CBsaGFudR9KyJyKb).
+
 ## Contents
 
 This repository contains the code for the tutorial on [Atomistic Adversarial Attacks](https://github.com/dskoda/Atomistic-Adversarial-Attacks) and [QUESTS: Quick Uncertainty and Entropy from STructural Similarity](https://github.com/dskoda/quests) presented to the [UChicago AI + Science Summer School 2024](https://datascience.uchicago.edu/events/ai-science-summer-school-2024/).
