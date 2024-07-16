@@ -13,12 +13,14 @@ The full references for the datasets are:
 - **GAP-20**: P. Rowe, V. L. Deringer, P. Gasparotto, G. Csányi, and A. Michaelides.
 "An accurate and transferable machine learning potential for carbon."
 The Journal of Chemical Physics 153 (2020).
-DOI: <https://doi.org/10.1063/5.0005084>
+DOI: <https://doi.org/10.1063/5.0005084>.
+Dataset: <https://www.repository.cam.ac.uk/items/ac362ef1-fa35-4bd4-8b56-2fde6d7b1d2c>
 - **MD-17**: S. Chmiela, A. Tkatchenko, H. E. Sauceda, I. Poltavsky, K. T. Schütt, and K.-R. Müller
 "Machine learning of accurate energy-conserving molecular force fields."
 Science Advances 3 (2017).
-DOI: <https://doi.org/10.1126/sciadv.1603015>
+DOI: <https://doi.org/10.1126/sciadv.1603015>.
 - **rMD-17**: A. Christensen and O. A. von Lilienfeld.
 "On the role of gradients for machine learning of molecular energies and forces."
 Machine Learning: Science and Technology
 DOI: <https://doi.org/10.1088/2632-2153/abba6f>
+Dataset: <https://figshare.com/articles/dataset/Revised_MD17_dataset_rMD17_/12672038>
